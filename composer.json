@@ -1,5 +1,5 @@
 {
-    "name": "speter/xenus",
+    "name": "speter81/xenus",
     "description": "Xenus : A MongoDB ODM",
     "keywords": ["php-7", "php-8", "mongodb", "odm", "xenus"],
     "type": "library",
